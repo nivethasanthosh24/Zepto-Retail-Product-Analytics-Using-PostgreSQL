@@ -74,7 +74,7 @@ Ensured consistency in stock data
 
 ### 4️⃣ Business Analysis Queries
 
-## Key analysis performed:
+### Key analysis performed:
 
 ### 💰 Pricing & Discount Analysis
 
