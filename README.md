@@ -32,7 +32,7 @@ Stock Status (In-stock / Out-of-stock)
 
 Quantity
 
-# 🛠 Tools & Technologies Used
+## 🛠 Tools & Technologies Used
 
 PostgreSQL
 
@@ -40,9 +40,9 @@ SQL (DDL, DML, Aggregations, Window Functions)
 
 Git & GitHub
 
-# 🔎 Project Workflow
+## 🔎 Project Workflow
 
-# 1️⃣ Database Setup
+### 1️⃣ Database Setup
 
 Created table structure using CREATE TABLE
 
@@ -50,7 +50,7 @@ Imported dataset into PostgreSQL
 
 Defined appropriate data types
 
-# 2️⃣ Data Exploration
+### 2️⃣ Data Exploration
 
 Counted total records
 
@@ -62,7 +62,7 @@ Analyzed stock availability
 
 Explored distinct product categories
 
-# 3️⃣ Data Cleaning
+### 3️⃣ Data Cleaning
 
 Removed products with zero price
 
@@ -72,11 +72,11 @@ Validated numeric fields
 
 Ensured consistency in stock data
 
-# 4️⃣ Business Analysis Queries
+### 4️⃣ Business Analysis Queries
 
- # Key analysis performed:
+## Key analysis performed:
 
-# 💰 Pricing & Discount Analysis
+### 💰 Pricing & Discount Analysis
 
 Top 10 products with highest discount percentage
 
@@ -84,7 +84,7 @@ Products with high MRP but low discount
 
 Products offering best value (price per gram)
 
-# 📦 Inventory Analysis
+### 📦 Inventory Analysis
 
 In-stock vs Out-of-stock comparison
 
@@ -94,7 +94,7 @@ Estimated revenue per category
 
 High-value inventory products
 
-# 📊 Category Performance
+### 📊 Category Performance
 
 Average discount per category
 
@@ -102,7 +102,7 @@ Revenue contribution by category
 
 Identification of high out-of-stock categories
 
-# 📈 Key Insights Generated
+### 📈 Key Insights Generated
 
 Identified top discount-driven products.
 
@@ -114,7 +114,7 @@ Evaluated inventory weight distribution.
 
 Analyzed stock risk areas.
 
-# 🧠 Advanced SQL Concepts Used
+### 🧠 Advanced SQL Concepts Used
 
 Aggregation functions (SUM, AVG, COUNT)
 
@@ -130,7 +130,7 @@ Views creation
 
 Revenue estimation logic
 
-# 🚀 How to Run This Project
+## 🚀 How to Run This Project
 
 Install PostgreSQL.
 
@@ -142,7 +142,7 @@ Import dataset (CSV file).
 
 Execute SQL queries provided in the project file.
 
-# 🎯 Project Highlights
+## 🎯 Project Highlights
 
 ✔ Real-world retail analytics use case
 ✔ Business-focused SQL queries
@@ -150,7 +150,7 @@ Execute SQL queries provided in the project file.
 ✔ Revenue and inventory intelligence
 ✔ Resume-ready SQL project
 
-# 📌 Future Enhancements
+## 📌 Future Enhancements
 
 Create Power BI dashboard for visualization
 
