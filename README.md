@@ -8,7 +8,7 @@ The analysis was conducted using PostgreSQL to extract meaningful insights relat
 
 The goal of this project is to demonstrate strong SQL skills and the ability to derive business insights from structured data.
 
-# 📂 Dataset Description
+## 📂 Dataset Description
 
 The dataset contains product-level information including:
 
